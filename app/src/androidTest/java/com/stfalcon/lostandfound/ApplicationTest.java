@@ -1,4 +1,4 @@
-package com.exa.lost_and_found_android.lost_and_found_android;
+package com.stfalcon.lostandfound;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

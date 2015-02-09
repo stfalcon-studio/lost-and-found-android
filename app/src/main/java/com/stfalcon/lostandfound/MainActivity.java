@@ -1,4 +1,4 @@
-package com.exa.lost_and_found_android.lost_and_found_android;
+package com.stfalcon.lostandfound;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
